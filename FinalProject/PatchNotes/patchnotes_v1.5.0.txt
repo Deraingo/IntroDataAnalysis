@@ -1,0 +1,1279 @@
+../../PathNotes/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Update 1.5.0  — THE FINALS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to Content
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+
+
+
+GAMEMODES
+
+
+
+
+
+
+SUPPORT
+
+
+
+
+
+
+MERCH
+
+
+
+
+
+
+EMBARK PORTAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open Menu
+
+
+Close Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+
+
+
+GAMEMODES
+
+
+
+
+
+
+SUPPORT
+
+
+
+
+
+
+MERCH
+
+
+
+
+
+
+EMBARK PORTAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open Menu
+
+
+Close Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+
+
+
+GAMEMODES
+
+
+
+
+
+
+SUPPORT
+
+
+
+
+
+
+MERCH
+
+
+
+
+
+
+EMBARK PORTAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Update 1.5.0 
+
+
+
+
+
+
+
+
+
+
+Feb 2
+
+
+
+
+Written By 
+Dusty Gustafsson
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+2024.01.17
+Welcome to Update 1.5
+
+
+
+
+
+
+
+
+Today we are introducing our very first limited-time mode (LTM): Solo Bank It!
+This experimental twist on Bank It pits contestants against each other in a fight for individual glory in a 12-player arena. Just like Bank It, the first to amass 40,000 and deposit in the cash-out station wins. Solo queuers, rejoice! 
+We’re putting this mode out there to learn more about your experience, so we’ll open a channel in Discord to gather feedback for as long as the mode stays up. 
+Outside the new mode, Update 1.5.0 comes with a litany of balance changes, tweaks, and bug fixes — all laid out below — to help improve the overall experience. 
+In addition, with Update 1.5.0 we’re introducing our fair play guidelines, with revamped and improved detection methods for unfair play. From now on, we’ll restrict cheaters with more confidence and will be able to stand firmly behind our bans. Our goal, as always, is to make the game safe, fair, and fun
+Finally, we’ve decided to expand the size of our store, with an even bigger and more diverse range of items at any given time. 
+Check out the full notes below:
+ 
+Balance Changes
+Abilities
+Charge N’ Slam
+Fixed an issue where players could charge while stationary and stealing an extraction
+Cloaking Device
+Increased activation cost from 1s to 2s
+Increased minimum required charge time to activate from 1.5s to 2.5s
+Grapple Hook
+Will no longer attach to objects that are attached to carriables
+Guardian Turret 
+Will now shoot target dummies in the practice range
+Mesh Shield
+Decreased health from 1100 to 1000
+Recon Senses
+Increased activation cost from 1s to 1.5s
+Decreased minimum charge time to activate from 2.5s to 2s
+Gadgets
+C4
+Player damage decreased from 210 to 155
+Player min damage decreased from 120 to 100
+Flashbang
+Cooldown decreased from 20s to 18s
+Gas Mine
+Cooldown increased from 25s to 27s
+Incendiary Mine
+Cooldown decreased from 30s to 27s
+Vanishing Bomb
+Cooldown decreased from 20s to 18s
+RPG
+Player damage decreased from 150 to 140
+Stun Gun
+Decreased duration of stun effect from 5s to 3.75s
+Tracking Dart
+Cooldown decreased from 15s to 13s
+Added new Scoped Zoom Sensitivity Multiplier to the settings screen that affects the Tracking Dart
+Game Modes
+Bank It
+Game show event start time reduced from minute six to minute four
+Quick Cash
+Game show event start time reduced from minute six to minute four
+Team wipe respawn time increased from 17 to 18 seconds
+Ranked Tournament
+Team wipe respawn time increased from 25 to 26 seconds
+Tournament
+Team wipe respawn time increased from 25 to 26 seconds
+Tournaments will now unlock after players have completed one round, reduced from 12
+Maps
+Las Vegas
+Updated destruction behavior to get more realistic destruction
+Updated strain system to get more realistic destruction
+Updated various ziplines in the level
+Throwables
+Deployable explosives such as C4, Breach Charges and Explosive Mines will now add mass to throwable objects, causing them to travel less far when thrown  
+Weapons
+Flamethrower
+Damage increased from 28 to 30
+LH1
+Damage increased from 47 to 49
+M11
+Recoil pattern updated, to make the weapon easier to control
+SH1900 Shotgun
+Damage decreased from 12 to 10 damage per pellet
+M60
+Damage increased from 21 to 22
+Riot Shield
+Updated attack animations and hit sweeps, to make the weapon feel more responsive
+Fixed issues where the Riot Shield could be invisible and still block bullets
+Fixed an issue where the Riot Shield could block bullets while the player climbed a ladder
+SA1216
+Fixed an issue that allowed the weapon to be fired faster than intended
+SR-84 Sniper Rifle
+Added new Scoped Zoom Sensitivity Multiplier to the settings screen that affects the SR-84
+Throwing Knives
+Added new trail effects to make the projectiles easier to see
+Shortened the lifetime of Knives stuck in metal surfaces
+V9S
+Damage increased from 35 to 36
+Content And Bug Fixes
+Animation
+Updated some main menu weapon animations
+Left-side inspection animations added to the following items: 
+AKM
+CL-40
+FCAR
+Flamethrower
+Goo Gun
+Lewis Gun
+LH1
+M11
+M60
+MGL32
+Model 1887
+R.357
+SA1216
+SH1900
+SR-84
+Stun Gun
+Tracking Dart
+V9S
+XP-54
+Audio
+Replaced an old unattenuated sound on the Glitch Trap
+Fix a zip wire attachment sound that could play on the main menu
+Characters
+Fixed some issues where hair could clip visually with various headwear
+Fixed some skinning issues that occurred on wrists
+Fixed some skinning issues that occurred on gloves
+Controller
+Added an option that allows controller players to pick the priority order of Reload/Pick Up button actions
+Console
+Fixed an issue that allowed Mouse and Keyboard to be enabled on some consoles
+Crashes
+Fixed a server crash where players could attach to ziplines and disconnect at the same time
+Fixed a client crash that could be caused by certain outfits in the Battle Pass and Store screens
+Disconnects
+Fixed an issue where game servers could very rarely shut down early due to how players connected
+Maps
+General
+Improved the floor number display in elevators
+Fixed lingering smoke clouds that could appear during the end of round sequence
+Fixed team logos not always streaming in during the end of round sequence
+Monaco
+Fixed an awning that partially clipped through the path of a zipline
+Optimised lighting for the Fog and Storm weather types
+Seoul
+Fixed an initial spawn in Hospital that ran into a small dead end
+Fixed some railings that could block bullets
+Vegas
+Fixed an issue where the map border blocked bullets and grenades
+Fixed a ladder that sometimes caused players to get stuck
+Fixed some issues with intersecting and floating assets
+Fixed an issue where Las Vegas spotlights would sometimes be culled unexpectedly
+Movement
+Fixed an issue where players could slingshot themselves (aka ‘superglide’) by grinding against obstacles during vault interactions.
+Vaulting
+Fixed an issue where players could gain extreme speed by picking up objects that were being vaulted on
+Updated vaulting to feel snappier and be more aligned to ledges
+Quick Melee
+Fixed an issue where players could use Quick Melee on ladders
+UI
+Fixed an issue where scoreboard text could be cut short
+Fixed a ‘New’ label that could clip with the Play button in the main menu
+Fixed an issue where ‘Tournament Winners’ text could be partially visible on both sides of the screen
+Fixed an issue where player’s names could appear over their face in the end of round screens
+Fixed an issue where the Career screen could jump during the first frame
+Fixed an issue where hover VFX would not play on video thumbnails
+Fixed an issue where some Weapon Charms and Stickers would become unequippable
+Fixed an issue where total playtime would reset to 0 on the Career screen after 24 hours
+Fixed an issue where the current gamepad bindings were lost when resetting the keyboard bindings
+Fixed an issue with the crosshair that caused headshot hit indicators to show based on damage done, rather than hit location
+Fixed an issue where player names above the health bar could sometimes get cut off
+Fixed an issue where the subtitle preview would not hide correctly when exiting settings
+Fixed team member names sometimes staying transparent after respawn
+Fixed an issue that prevented player outlines on enemies appearing when looking through metal fences
+Fixed an issue where some settings in the settings screen would not be affected by restoring default settings
+VoIP
+Set VoIP to be enabled by default on PC, with Push To Talk set as the default input (new installs only)
+Set VoIP to be enabled by default on console, with Voice Activated set as the default input (new installs only)
+Weapons
+Fixed an issue where bullet dispersion/spread would not update if the player switched between items 
+Throwing Knives will now have the correct skin when thrown 
+Fixed cheat exploit with melee weapons
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Dusty Gustafsson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous
+
+
+Previous
+
+
+Hotfix 1.5.1
+
+
+
+
+
+
+
+
+
+
+Next
+
+
+Next
+
+
+Hotfix 1.4.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy Policy
+
+  
+Cookie Policy
+
+  
+Content Creators
+
+  
+Security
+
+  
+User Terms
+
+  
+Cookie Settings
+
+
+
+
+
+
+THE FINALS © 2022-2024 Embark Studios AB. THE FINALS and EMBARK trademarks and logos are trademarks or registered trademarks of Embark Studios AB. NEXON trademark and logo are trademarks or registered trademarks of NXC Corporation. © 2024 Valve Corporation. Steam and the Steam logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries. © 2024 Epic Games, Inc. All rights reserved. Unreal, Unreal Engine and their respective logos are trademarks or registered trademarks of Epic Games, Inc. in the U.S. Patent and Trademark Office and elsewhere. All other trademarks and trade names are the property of their respective owners.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

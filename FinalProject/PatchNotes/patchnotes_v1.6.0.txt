@@ -1,0 +1,1243 @@
+../../PathNotes/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mid-Season Update 1.6.0 — THE FINALS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Skip to Content
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+
+
+
+GAMEMODES
+
+
+
+
+
+
+SUPPORT
+
+
+
+
+
+
+MERCH
+
+
+
+
+
+
+EMBARK PORTAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open Menu
+
+
+Close Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+
+
+
+GAMEMODES
+
+
+
+
+
+
+SUPPORT
+
+
+
+
+
+
+MERCH
+
+
+
+
+
+
+EMBARK PORTAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open Menu
+
+
+Close Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS
+
+
+
+
+
+
+GAMEMODES
+
+
+
+
+
+
+SUPPORT
+
+
+
+
+
+
+MERCH
+
+
+
+
+
+
+EMBARK PORTAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mid-Season Update 1.6.0
+
+
+
+
+
+
+
+
+
+
+Feb 2
+
+
+
+
+Written By 
+Dusty Gustafsson
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+2024.01.31
+Welcome to our Season 1 Event: 
+STEAL THE SPOTLIGHT!
+ 
+
+
+
+
+
+
+
+
+In this solo event, you enter the arena at night with a set build and loadout. Lights are out and cashout stations are guarded by turrets and tripwires, and the best path might just be the one you make yourself — so keep that RPG handy. 
+Play 
+STEAL THE SPOTLIGHT
+ this week to unlock a dazzling cosmetic bundle, that will forever remind you of your time spent duking it out in the dark.
+For now, we’ll be removing 
+Solo Bank It
+ from the game. Thank you so much to everyone who played this experimental mode and provided feedback! We learned so much and we look forward to bringing you more experimental modes in the future. 
+As for other significant changes in 
+Update 1.6.0
+, 
+Recon Senses
+ have been updated, with a limited reach (no more infinite sight). And in case you get spotted, you’ll get notified so you can get ready for the battle ahead. 
+Including some refinements to close-ranged aim assistance, controller players can now use gyro controls for supported gamepads, so let the good times ‘roller!
+For all you old-timers, we’ve added 10 levels to the 
+Career Rank 
+with additional rewards. And for newcomers, we’ve reduced the number of rounds needed to get into a ranked tournament from 60 to 45. To help you prepare, you’re now able to change your loadout in the lobby while you wait for the first match to start! 
+Let’s get to the details: 
+Balance Changes
+Gadgets
+Dome Shield
+Dome Shields will now use squad colors if the ‘Use Enemy Squad Colors’ setting is enabled 
+Vanishing Bomb
+Increased the invisibility interrupt grace period for teammates from 0.65s to 0.8s (+)
+Increased the invisibility interrupt grace period for the player from 0s to 0.35s (+)
+Increased the duration of Vanishing Bomb invisibility on teammates from 5s to 6s (+)
+Zipline
+Improved placement validation for ziplines, making them easier to deploy 
+Maps
+Las Vegas
+General
+Added some cover to the side of kitchen trolleys to make them easier to use
+Replaced the zipline between Eastwood and Decora with a jump pad
+Moved various cover pieces to avoid gaps in cover
+Moved various chairs to make traversal easier
+Removed Turrets & Tripwires map variant in Quick Cash, Bank It, Tournament, and Ranked Tournament modes while we fix various bugs and re-evaluate the gameplay design
+Argon Casino
+Removed some of the monitors in the casino so some doors are easier to see
+Added an extra door to make traversal easier
+Updated some Vault spawn locations and added cover to some of them
+Eastwood Casino
+Updated exit points on various ziplines to make it easier to access rooftops 
+Added decals to some windows to make the glass more visible
+Rearranged the aircon units to create more cover on the roof
+Adjusted the position of some cashout locations
+Glamora Casino
+Removed some chairs so it's easier to jump in and out of cashier booths
+Removed some chairs and railings in the theatre to make traversal easier
+Various other small fixes and balance tweaks
+Specializations
+Mesh Shield
+The Mesh Shield will now use squad colors if the ‘Use Enemy Squad Colors’ setting is enabled 
+Recon Senses
+Added a range limit to Recon Senses set to 30m. Players outside of this range will not be detected
+Players detected by Recon Senses will now see ‘Detected’ warning text on their HUD
+Dev Note: Recon Senses have become much more common in the meta than we intended and can cause confusion for some newer players. The reduction in range and the warning given to detected players will bring the ability’s power back in line with other Specializations
+Content And Bug Fixes
+Animation
+Fixed some small issues with the LH1 reload and Goo Gun inspect animations
+Updated reload animations when aiming down sights to add slightly more movement to them
+Audio
+Updated footstep audio and mix for the player, teammates, and enemies
+Dev note: It should now be clearer for players to tell friendly players apart from enemies and their own footsteps
+Fixed an issue where the spawn sound effect could be cut off when respawning
+Updated various VO lines
+Various VO bug fixes
+Career Rank
+Added 10 more levels to the Career Rank along with additional rewards. Max rank is now 50.
+Characters
+Fixed an issue where characters could have their legs bent backward on some screens
+Controller
+Added Gyro aiming options for PS5 DualSense and PS4 DualShock controllers
+Fixed an issue with aim assistance sensitivity reduction that caused almost no sensitivity reduction to be applied to targets closer to the player than 20m
+Reduced input latency on PS5
+Emotes
+Fixed an issue that prevented the player emoting while crouched
+Gadgets
+Defibrillators
+Fixed an issue where player statues could not be targeted for revives when lying in foliage
+Fixed an issue where player statues could not be targeted for revives when carried
+Fixed various issues with placement distances on deployable Gadgets
+Fixed an issue where turret parts could collide with each other, causing strange behavior when placed on barrels
+Game Modes
+General
+Added ‘Steal the Spotlight’ event mode
+Added the ability for players to customize their contestant Loadout for all Weapons, Gadgets, and Specializations during the match lobby at the start of each match in all game modes
+Ranked Tournament
+Lowered the number of rounds required to play Ranked Tournament from 60 to 45 (-)
+Dev note: With the improvements we’ve made to fair play and banning, the threshold required to enter Ranked Tournaments doesn’t need to be quite so high.
+Solo Bank It 
+Disabled the experimental Solo Bank It mode
+Maps
+Monaco
+Made night and night storm weather conditions slightly less dark on Monaco for OLEDs
+Tweaked LOD settings on some trees in Monaco to reduce popping on low settings
+Movement
+Fixed an issue where players could become stuck in encroached spaces
+Fixed an issue where players would fail wall jumps if they pressed and held jump too early in a vault sequence
+Fixed an issue where the player would cancel a slide if aiming down sights was triggered from toggled crouch
+Security
+Made various improvements to security and cheat detection
+Settings
+Increased default FOV from 71 to 81 (new installations only)
+UI
+Added Career Rank screen where players can see rewards earned by gaining rank
+Added new tournament overview screen to tournament modes
+Added additional item tutorial videos for the following items:
+APS Turret
+Gas Grenade
+Glitch Grenade
+Glitch Trap
+Goo Gun
+Motion Sensor
+Pyro Grenade
+Smoke Grenade
+Sonar Grenade
+Thermal Vision
+Added new Event Contracts to the Contracts screen
+Updated the size of ranked icons
+Fixed wrapping issues on Contracts during the end-of-round sequence
+Decreased duration of Vault objective markers on round start
+Made various improvements to contextual ping accuracy, making them more accurate
+Various bug fixes to the UI
+VFX
+Added new impact effects when friendly players shoot each other, instead of the coin effects, as this could cause confusion for players
+Updated collision on coin death effects to reduce the number of coins that can fall through floors
+Various polish improvements to coin death effects
+Optimization pass on the gas canister explosion effects
+Weapons
+Increased the size of various grenade projectiles, to make them easier to see in combat
+Fixed some issues where AoE damage could be wrongly invalidated, causing no damage to be done
+Fixed an exploit where melee weapons could be swung faster than intended
+Fixed an issue that prevented C4 and Mines from being picked up when placed on a throwable object that had been picked up
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Dusty Gustafsson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Previous
+
+
+Previous
+
+
+Hotfix 1.6.1
+
+
+
+
+
+
+
+
+
+
+Next
+
+
+Next
+
+
+Update 1.5.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy Policy
+
+  
+Cookie Policy
+
+  
+Content Creators
+
+  
+Security
+
+  
+User Terms
+
+  
+Cookie Settings
+
+
+
+
+
+
+THE FINALS © 2022-2024 Embark Studios AB. THE FINALS and EMBARK trademarks and logos are trademarks or registered trademarks of Embark Studios AB. NEXON trademark and logo are trademarks or registered trademarks of NXC Corporation. © 2024 Valve Corporation. Steam and the Steam logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries. © 2024 Epic Games, Inc. All rights reserved. Unreal, Unreal Engine and their respective logos are trademarks or registered trademarks of Epic Games, Inc. in the U.S. Patent and Trademark Office and elsewhere. All other trademarks and trade names are the property of their respective owners.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

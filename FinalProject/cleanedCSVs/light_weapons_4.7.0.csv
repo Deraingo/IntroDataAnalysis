@@ -1,0 +1,17 @@
+Unnamed: 0,Body Damage,Head Damage,Rate of Fire (RPM),Magazine Size,Damage Per Magazine,Empty Reload Time (seconds),Tactical Reload Time (seconds),Shots Per Burst,Delay Between Bursts (seconds),TTK vs. Light @ Body (seconds),STK (L),TTK vs. Medium @ Body (seconds),STK (M),TTK vs. Heavy @ Body (seconds),STK (H),TTK vs. Light @ Head (seconds),STK (L).1,TTK vs. Medium @ Head (seconds),STK (M).1,TTK vs. Heavy @ Head (seconds),STK (H).1,Damage Dropoff Minimum Range,Damage Dropoff Maximum Range,Damage Dropoff Modifier @ Max Range,Notes
+93R,24,36,210,21,504,1.75,1.45,3,0.275,0.79,7,1.25,11,1.70,15,0.46,5,0.79,7,1.19,10,23m,35m,~45%,
+Dagger,50,-,-,-,-,-,-,-,-,-,3,-,5,-,7,-,-,-,-,-,-,-,-,-,
+Dagger (Alt. w/ Backstab),320*,-,-,-,-,-,-,-,-,-,1,-,1,-,2,-,-,-,-,-,-,-,-,-,Deals 50 damage without backstab.  Cannot hit multiple targets in one stab.
+LH1,48,96,280,15,720,2.85,1.95,-,-,0.64,4,1.07,6,1.50,8,0.21,2,0.43,3,0.64,4,50m,55m,~72%,
+M11,16,24,1000,40,640,1.85,1.55,-,-,0.54,10,0.90,16,1.26,22,0.36,7,0.60,11,0.84,15,10m,15m,~62%,
+M26 Matter,121,-,85,8,968,2.45,2.05,-,-,0.71,2,1.41,3,1.41,3,-,-,-,-,-,-,15m,25m,~64%,
+Recurve Bow (uncharged),60,90,78,-,-,-,-,-,-,1.54,3,3.08,5,3.85,6,0.77,2,1.54,3,2.31,4,-,-,-,Takes ~160ms to fire the 1st shot. Various methods of optimizing TTK: https://i.imgur.com/DLfa7hv.jpeg (qm = quick melee). TTK does not account for projectile travel time.
+Recurve Bow (charged),120,180,48,-,-,-,-,-,-,1.25,2,2.50,3,2.50,3,0.00,1,1.25,2,1.25,2,-,-,-,Takes ~640ms to charge a shot. Various methods of optimizing TTK: https://i.imgur.com/DLfa7hv.jpeg (qm = quick melee). TTK does not account for projectile travel time.  Damage increases from 60 to 120 (continuously) based on how long this weapon was charged.
+SH1900,195,-,80,2,390,2.60,2.20,-,-,0.00,1,0.75,2,0.75,2,-,-,-,-,-,-,-,-,-,
+SR-84,115,230,40,6,690,3.35,1.95,-,-,1.50,2,3.00,3,4.50,4,0.00,1,1.50,2,1.50,2,80m,100m,~75%,"Bullets are hitscan up until 40m, and then converted into a projectile afterwards."
+Sword,74,-,-,-,-,-,-,-,-,-,3,-,4,-,5,-,-,-,-,-,-,-,-,-,
+Sword (Alt.),140,-,-,-,-,-,-,-,-,-,2,-,2,-,3,-,,-,,-,,-,-,-,
+Throwing Knives,60,90,545.45,-,-,-,-,2,0.59,0.78,3,1.56,5,1.67,6,0.11,2,0.78,3,0.89,4,-,-,-,"TTK does not account for projectile travel time, or the initial delay when throwing the knives.  It represents more of a ""time-to-death"" calculation, if anything."
+Throwing Knives (Alt.),140,215,27.7,-,-,-,-,-,-,2.17,2,2.17,2,4.33,3,0.00,1,2.17,2,2.17,2,-,-,-,"TTK does not account for projectile travel time, or the initial delay when throwing the knives.  It represents more of a ""time-to-death"" calculation, if anything."
+V9S,40,60,360,20,800,1.50,1.25,-,-,0.50,4,1.00,7,1.33,9,0.33,3,0.67,5,0.83,6,10m,15m,~67%,
+XP-54,16,24,850,30,480,2.50,2.25,-,-,0.64,10,1.06,16,1.48,22,0.42,7,0.71,11,0.99,15,20m,30m,~62%,

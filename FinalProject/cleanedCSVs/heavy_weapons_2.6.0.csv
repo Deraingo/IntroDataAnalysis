@@ -1,0 +1,11 @@
+Unnamed: 0,Body Damage,Head Damage,Rate of Fire (RPM),Magazine Size,Damage Per Magazine,Empty Reload Time (seconds),Tactical Reload Time (seconds),Shots Per Burst,Delay Between Bursts (seconds),TTK vs. Light @ Body (seconds),STK (L),TTK vs. Medium @ Body (seconds),STK (M),TTK vs. Heavy @ Body (seconds),STK (H),TTK vs. Light @ Head (seconds),STK (L).1,TTK vs. Medium @ Head (seconds),STK (M).1,TTK vs. Heavy @ Head (seconds),STK (H).1,Damage Dropoff Minimum Range,Damage Dropoff Maximum Range,Damage Dropoff Modifier @ Max Range,Notes
+Flamethrower,30*,-,170,30,900,3.55,3.55,-,-,1.41,5,2.82,9,3.88,12,-,-,-,-,-,-,-,-,-,(need information about whether or not the fire DoT sticks to the player while dealing damage with Flamethrower ammo)
+KS-23,100,-,73,6,600,(see notes)*,(see notes)*,-,-,0.82,2,1.64,3,2.47,4,-,-,-,-,-,-,18m,23m,~65%,"Empty reload = 5.55s (2.2s for 1st shell, 1.1s for 2nd then 3rd shell, 0.9s for 4th then 5th shell, then 1.35s for 6th shell).  Tactical reload from 1-4 shells = 1.35s for 1st shell, 0.9s for subsequent shells, then 0.65s for last shell.  Tactical reload from 5 shells = 1.1s.  Firing the weapon will cancel the reload animation."
+Lewis Gun,25,33,500,47,1034,3.55,3.25,-,-,0.72,7,1.32,12,1.8,16,0.48,5,0.84,8,1.2,11,35m,40m,~67%,
+M60,22,30.5,580,70,1330,3.55,3.55,-,-,0.72,8,1.34,14,1.86,19,0.52,6,0.83,9,1.24,13,25m,32.5m,~40%,
+MGL-32,83,-,90,6,498,3.1,2.85,-,-,0.67,2,2,4,2.67,5,-,-,-,-,-,-,-,-,-,Rounds detonate on impact after the 1st bounce. Maximum fuse time = 2.5s. Explosion inner radius = 1.5m.
+SA1216,78,-,200,16,1248,3.25,2.35,4,1.1,0.3,2,0.9,4,2,5,-,-,-,-,-,-,10m,15m,~67%,
+Sledgehammer,115,-,-,-,-,-,-,-,-,-,2,-,3,-,4,-,-,-,-,-,-,-,-,-,
+Sledgehammer (Alt.),200,-,-,-,-,-,-,-,-,-,1,-,2,-,2,-,-,-,-,-,-,-,-,-,Cannot hit multiple targets in one swing.
+Spear,(see notes)*,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,"LMB combo = 65 damage, then 80 damage, then 90 damage.  Has a 3-4m range."
+Spear (Alt.),100,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Damage is per hit in a 3-hit combo.  Has a 3m radius.
