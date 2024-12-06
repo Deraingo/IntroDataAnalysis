@@ -8,7 +8,7 @@ import os
 
 nltk.download('vader_lexicon')
 
-weaponName = "cl40"
+weaponName = "pike"
 # post_update or pre_update
 updateVersion = "post_update"
 outputDir = f"output/{updateVersion}/{weaponName}"

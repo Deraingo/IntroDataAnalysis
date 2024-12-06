@@ -12,12 +12,11 @@ from scipy.stats import pearsonr
 nltk.download("vader_lexicon")
 sia = SentimentIntensityAnalyzer()
 
-# Reddit API credentials
-redditClientId = ""
-redditClientSecret = ""
-redditUserAgent = ""
+redditClientId = "lwmk70nQqTOAST36Z_g11g"
+redditClientSecret = "sNySe0wpiHmlDDevTJxJPt98x85eGw"
+redditUserAgent = "windows:finalsDataScrape2.0:v1.0 (by /u/Deraingo)"
 
-weaponName = "pike"
+weaponName = "revolver"
 # post_update or pre_update
 updateVersion = "pre_update"
 afterDate = None
