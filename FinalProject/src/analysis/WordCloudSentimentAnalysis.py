@@ -8,10 +8,10 @@ import os
 
 nltk.download('vader_lexicon')
 
-weaponName = "cl40"
+weaponName = "pike"
 # post_update or pre_update
-updateVersion = "pre_update"
-outputDir = f"output/{updateVersion}"
+updateVersion = "post_update"
+outputDir = f"output/{updateVersion}/{weaponName}"
 os.makedirs(outputDir, exist_ok=True)
 
 def filterOpinionsByKeywords(opinions, keywords):
@@ -97,6 +97,20 @@ def main():
     plt.savefig(boxplotPath, format='png')
     plt.close()
     print(f"Sentiment boxplot saved to {boxplotPath}")
+
+
+    correlationMatrix = filteredOpinionsDf[['neg', 'neu', 'pos', 'compound']].corr()
+    corrMatrixPath = os.path.join(outputDir, f"{updateVersion}_{weaponName}_correlation_matrix.png")
+    plt.figure(figsize=(8, 6))
+    sns.heatmap(correlationMatrix, annot=True, cmap='coolwarm', fmt=".2f")
+    plt.title("Correlation Matrix of Sentiment Scores")
+    plt.savefig(corrMatrixPath, format='png')
+    plt.close()
+    print(f"Correlation matrix heatmap saved to {corrMatrixPath}")
+
+    overall_sentiment_score = filteredOpinionsDf['compound'].mean()
+    print(f"Overall Sentiment Score for '{weaponName}' posts: {overall_sentiment_score}")
+    
 
 if __name__ == "__main__":
     main()

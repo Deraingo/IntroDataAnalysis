@@ -13,13 +13,13 @@ nltk.download("vader_lexicon")
 sia = SentimentIntensityAnalyzer()
 
 # Reddit API credentials
-redditClientId = ""
-redditClientSecret = ""
-redditUserAgent = ""
+redditClientId = "lwmk70nQqTOAST36Z_g11g"
+redditClientSecret = "sNySe0wpiHmlDDevTJxJPt98x85eGw"
+redditUserAgent = "windows:finalsDataScrape2.0:v1.0 (by /u/Deraingo)"
 
 weaponName = "pike"
 # post_update or pre_update
-updateVersion = "post_update"
+updateVersion = "pre_update"
 afterDate = None
 beforeDate = None
 # Set date to filter posts after a specific timestamp
@@ -30,7 +30,7 @@ else:
     updateVersion = "pre_update"
     afterDate = int(datetime(2024, 9, 27).timestamp())
     beforeDate = int(datetime(2024, 10, 10).timestamp())
-outputDir = f"reddit_output/{updateVersion}"
+outputDir = f"reddit_output/{updateVersion}/{weaponName}"
 
 reddit = praw.Reddit(
     client_id=redditClientId,
@@ -132,9 +132,9 @@ plt.ylabel("Sentiment Score")
 plt.savefig(os.path.join(outputDir, f"{updateVersion}_{weaponName}_correlation_length_sentiment.png"))
 plt.close()
 
-correlation_matrix = redditData[["upvotes", "textLength", "sentimentScore"]].corr()
+correlationMatrix = redditData[["upvotes", "textLength", "sentimentScore"]].corr()
 plt.figure(figsize=(8, 6))
-sns.heatmap(correlation_matrix, annot=True, cmap="coolwarm", fmt=".2f")
+sns.heatmap(correlationMatrix, annot=True, cmap="coolwarm", fmt=".2f")
 plt.title("Correlation Matrix")
 plt.savefig(os.path.join(outputDir, f"{updateVersion}_{weaponName}_correlation_matrix.png"))
 plt.close()
