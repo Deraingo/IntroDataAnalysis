@@ -8,7 +8,7 @@ import os
 
 nltk.download('vader_lexicon')
 
-weaponName = "pike"
+weaponName = "cl40"
 # post_update or pre_update
 updateVersion = "post_update"
 outputDir = f"output/{updateVersion}/{weaponName}"
@@ -61,7 +61,7 @@ def main():
     print(f"Filtered opinions saved to {filteredCsvPath}")
 
     allFilteredText = " ".join(filteredOpinions.dropna())
-    stopwordsToExclude = {"opinion", "analysis", "player", "finals", "the", "a", "is", "and", f"{weaponName}", "mention", "opinions", "text", "please provide specific information", "please provide", "speaker"}
+    stopwordsToExclude = {"opinion", "analysis", "player", "finals", "the", "a", "is", "and", "mention", "opinions", "text", "please provide specific information", "please provide", "speaker"}
     print("Generating word cloud for filtered opinions...")
 
     wordcloudPath = os.path.join(outputDir, f"{updateVersion}_{weaponName}_word_cloud.png")
